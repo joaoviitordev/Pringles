@@ -1,16 +1,16 @@
-# 🍟 Landing Page Pringles
+# Landing Page Pringles
 
 Bem-vindo ao repositório do projeto Pringles | DevArt: projetos de alto valor.
 
 ---
 
-## 🔗 Acesse o Projeto
+## Acesse o Projeto
 O portfólio está publicado e pode ser visualizado no link abaixo:
-* 👉 **https://joaoviitordev.github.io/Landing-Page-Pringles/**
+* **https://joaoviitordev.github.io/Pringles/**
 
 ---
 
-## 🎨 Design & Prototipação
+## Design & Prototipação
 
 A construção deste projeto seguiu um fluxo de design profissional, garantindo consistência antes da implementação.
 
@@ -21,7 +21,7 @@ A construção deste projeto seguiu um fluxo de design profissional, garantindo 
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
 ### **Front-end & Core**
 * **HTML5 / CSS3:** Estrutura semântica e estilização avançada com foco em responsividade.
@@ -34,7 +34,7 @@ A construção deste projeto seguiu um fluxo de design profissional, garantindo 
 
 ---
 
-## ✨ Funcionalidades Principais
+## Funcionalidades Principais
 
 - [x] **Interface Responsiva:** Design otimizado para mobile, tablets e desktops.
 - [x] **Scroll Fluido:** Experiência de navegação suave e moderna.
@@ -42,17 +42,14 @@ A construção deste projeto seguiu um fluxo de design profissional, garantindo 
 
 ---
 
-## 👨‍💻 Sobre Mim
-
-Sou um desenvolvedor Front-end que acredita que o código e o design devem caminhar juntos. Especialista em transformar ideias prototipadas no Figma em interfaces vivas, utilizando ferramentas modernas de animação para criar experiências memoráveis na web.
-
----
-
-## 📬 Contato
+## Contato
 
 * **GitHub:** https://github.com/joaoviitordev
 * **LinkedIn:** https://www.linkedin.com/in/joaovitor-faria/
 * **Email:** joaovitorgomesdefaria@gmail.com
 
 ---
-*Desenvolvido com ☕ e muito foco em UI/UX por João Vitor.*
+
+## Observação
+
+Projeto desenvolvido exclusivamente para fins educacionais e de portfólio, sem fins comerciais.
