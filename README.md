@@ -2,6 +2,10 @@
 
 Bem-vindo ao repositório do projeto Pringles | DevArt: projetos de alto valor.
 
+<p align="center">
+  <img src="public/img/pringles.webp" alt="Hero" width="100%" />
+</p>
+
 ---
 
 ## Acesse o Projeto
